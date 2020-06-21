@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\MULE_API_Insurance_Demo Pckage\Updated Insurance PROJECT Workspace_17062020\for JAVA part\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1192910011.index
+\insuranceDemo\src\main\java
+D:\MULE_API_Insurance_Demo Pckage\Updated Insurance PROJECT Workspace_17062020\for JAVA part\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1417812077.index
+\demoInsuranceapi\src\main\java

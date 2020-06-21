@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\MULE_API_Insurance_Demo Pckage\Updated Insurance PROJECT Workspace_17062020\for JAVA part\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1273231409.index
+13552701.index
+3788215149.index
+2803640405.index
+478413441.index
+1999034141.index
